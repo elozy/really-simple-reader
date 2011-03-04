@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RSR</string>
+    
+	<string name="welcome">Welcome to Really Simple Reader. please select an option below to continue.</string>
+	<string name="rss_url">Enter an RSS feed URL:</string>
+	<string name="get">Get RSS Feed</string>
+	<string name="or">Or, select a locally stored file:</string>
+
+<string name="get_file">Choose file</string>
+<string name="developer">Developed by B. Gokulakrishnan for CS3200</string>
+<string name="store_feed">Save feed</string>
+<string name="choose_file">Choose a stored RSS feed:</string>
+</resources>
