@@ -1,0 +1,2 @@
+I created Really Simple Reader (RSR) initially as a means to learn the Android platform SDK. It is an open-source RSS Reader for the Android 2.1 platform that uses DOM to access remote feeds. RSR also provides functionalities for the user to store an obtained RSS feed and read it later off-line.
+Comments on improvements and additional contributions are welcome.
